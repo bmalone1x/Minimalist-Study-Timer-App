@@ -8,7 +8,7 @@
 import UIKit
 import FirebaseFirestore
 
-class ToDoTaskCell: UITableViewCell {
+class ToDoTaskCellController: UITableViewCell {
     
     private let db = Firestore.firestore()
 
