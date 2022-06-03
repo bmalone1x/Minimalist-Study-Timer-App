@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SettingCell: UITableViewCell {
+class SettingCellController: UITableViewCell {
     
     @IBOutlet weak var settingImage: UIImageView!
     
