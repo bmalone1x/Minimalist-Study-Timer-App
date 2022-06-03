@@ -3,7 +3,7 @@ iPhone App created by Bradley Malone for Capstone Project at Chattanooga State
 
 This does not contain the full project file..just the models, views, and controllers to show off some of the code and a few of the assets.
 
-Screenshots of the app running on a iPhone 11 is shown below.
+Screenshots of the app running on a iPhone 11 simulator is shown below.
 
 
 ![Account Overview Screen](https://user-images.githubusercontent.com/98924817/171914094-64dccbae-bff2-4b21-acee-4f629ec87a96.jpg)
